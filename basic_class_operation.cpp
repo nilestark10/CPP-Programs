@@ -29,7 +29,7 @@ class complex
 
   void display () 							//displaying value
   {
-    cout<<real<<'+'<<imaginary<<'i'<<endl;
+    cout<<real<<'+'<<imaginary<<'i'<<endl; // print the value
      
   }
 };
